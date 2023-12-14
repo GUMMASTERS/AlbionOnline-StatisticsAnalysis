@@ -146,13 +146,6 @@ This project has existed since June 2019. Almost every week I put +10 hours into
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Faeeth">
-            <img src="https://avatars.githubusercontent.com/u/37340968?v=4" width="50;" alt="Faeeth"/>
-            <br />
-            <sub><b>Faeeth</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Me1onSeed">
             <img src="https://avatars.githubusercontent.com/u/81557800?v=4" width="50;" alt="Me1onSeed"/>
             <br />
@@ -160,10 +153,10 @@ This project has existed since June 2019. Almost every week I put +10 hours into
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/PurpleGale">
-            <img src="https://avatars.githubusercontent.com/u/90148755?v=4" width="50;" alt="PurpleGale"/>
+        <a href="https://github.com/Faeeth">
+            <img src="https://avatars.githubusercontent.com/u/37340968?v=4" width="50;" alt="Faeeth"/>
             <br />
-            <sub><b>Null</b></sub>
+            <sub><b>Faeeth</b></sub>
         </a>
     </td>
     <td align="center">
@@ -174,13 +167,27 @@ This project has existed since June 2019. Almost every week I put +10 hours into
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/1027603857">
-            <img src="https://avatars.githubusercontent.com/u/38471268?v=4" width="50;" alt="1027603857"/>
+        <a href="https://github.com/Kukkimonsuta">
+            <img src="https://avatars.githubusercontent.com/u/737093?v=4" width="50;" alt="Kukkimonsuta"/>
+            <br />
+            <sub><b>Lukáš Novotný</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/PurpleGale">
+            <img src="https://avatars.githubusercontent.com/u/90148755?v=4" width="50;" alt="PurpleGale"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
     </td></tr>
 <tr>
+    <td align="center">
+        <a href="https://github.com/1027603857">
+            <img src="https://avatars.githubusercontent.com/u/38471268?v=4" width="50;" alt="1027603857"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/acelan">
             <img src="https://avatars.githubusercontent.com/u/71646?v=4" width="50;" alt="acelan"/>
@@ -215,20 +222,13 @@ This project has existed since June 2019. Almost every week I put +10 hours into
             <br />
             <sub><b>DayLight</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/zenion">
             <img src="https://avatars.githubusercontent.com/u/4081449?v=4" width="50;" alt="zenion"/>
             <br />
             <sub><b>Josh Stout</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Kukkimonsuta">
-            <img src="https://avatars.githubusercontent.com/u/737093?v=4" width="50;" alt="Kukkimonsuta"/>
-            <br />
-            <sub><b>Lukáš Novotný</b></sub>
         </a>
     </td>
     <td align="center">
